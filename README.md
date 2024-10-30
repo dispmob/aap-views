@@ -6,7 +6,12 @@
 ## Layout 🎨 
 
 <div align="center">
-  <img src="./images/passwd.png" alt="App Screenshot" width="400"/>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="./images/fig1.png" alt="App Screenshot" width="400"/>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="./images/fig2.png" alt="App Screenshot" width="400"/>
+  </div>
 </div>
 
 ## Technologies Used 🤖🍏
