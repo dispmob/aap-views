@@ -5,11 +5,11 @@
 "UpDown Control" is a simple Android application that allows users to increase or decrease values with ease. The application features an intuitive interface, providing buttons to adjust values up or down smoothly. Ideal for scenarios requiring precise control, UpDown Control ensures a user-friendly experience by making adjustments as simple as a single tap.
 ## Layout 🎨 
 
-<div align="center">
-  <div style="display: inline-block; margin: 10px;">
+<div align="center" style="display: flex; justify-content: center;">
+  <div style="margin: 10px;">
     <img src="./images/fig1.png" alt="App Screenshot" width="400"/>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="margin: 10px;">
     <img src="./images/fig2.png" alt="App Screenshot" width="400"/>
   </div>
 </div>
