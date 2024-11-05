@@ -2,7 +2,8 @@
 
 ## Project 🎯 
 
-"UpDown Control" is a simple Android application that allows users to increase or decrease values with ease. The application features an intuitive interface, providing buttons to adjust values up or down smoothly. Ideal for a user-friendly experience by making adjustments as simple as a single tap.
+Exercise 01 - Mobile Device Programming: "UpDown Control" is a simple Android app with an intuitive interface and buttons to smoothly increase or decrease values.
+ 
 
 ## Layout 🎨 
 
